@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To determine the bulk density and the tapped density of Pharmaceutical powders",     
+			"Lab": "Physical Pharmaceutics",               
+			"Discipline": "Pharmacy",				 
+			"Technology": "HTML CSS Javascript"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Rupali Sharma",         
+      "Institute": "Meerut Institute of Engineering and Technology",         
+      "InstituteAcronym": "MIET"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Avnika Agarwal",             
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
+       },
+
+       {       
+			"Contributer": "Samarth Anand",              
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
+       },
+
+       {       
+			"Contributer": "Nikunj Jain",             
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
+       },
+
+       {       
+			"Contributer": "Akash Chaudhary",              
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
+       }
+   ]
+
+}
